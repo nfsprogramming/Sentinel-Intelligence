@@ -1,0 +1,41 @@
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python Backend
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/*.spec
+backend/build/
+backend/dist/
+*.pyc
+*.pyo
+backend/logs/
+backend/data/  # Protect cached stock data
+
+# Node/Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Sensitive Data & Keys
+*.pem
+*.key
+.env
+keys/
+secrets/
+
+# Project Specific
+artifacts/
+temp/

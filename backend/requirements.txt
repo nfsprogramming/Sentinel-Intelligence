@@ -1,0 +1,15 @@
+yfinance
+pandas
+praw
+textblob
+vaderSentiment
+transformers
+torch
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+requests
+scipy
+numpy

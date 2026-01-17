@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2025-12-28T01:17:07.373366",
+    "ticker": "BTC-USD",
+    "currentPrice": 87490.8359375,
+    "predictedPrice": 35083.99201748375,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.2,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-28T01:40:32.053526",
+    "ticker": "BTC-USD",
+    "currentPrice": 87557.1328125,
+    "predictedPrice": 6208.598654450465,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.2,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-28T01:41:51.194220",
+    "ticker": "BTC-USD",
+    "currentPrice": 87544.2890625,
+    "predictedPrice": 35726.978470932496,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.2,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-28T16:05:47.169131",
+    "ticker": "BTC-USD",
+    "currentPrice": 87853.8359375,
+    "predictedPrice": 22865.701244725093,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.005270707607269287,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-28T16:32:29.132136",
+    "ticker": "BTC-USD",
+    "currentPrice": 87787.6796875,
+    "predictedPrice": 29264.628622814464,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.005270707607269287,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-28T16:44:17.953453",
+    "ticker": "BTC-USD",
+    "currentPrice": 87849.5859375,
+    "predictedPrice": 13032.62513410206,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.005270707607269287,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  },
+  {
+    "timestamp": "2025-12-30T17:59:51.825107",
+    "ticker": "AAPL",
+    "currentPrice": 273.760009765625,
+    "predictedPrice": 90.74185016872337,
+    "bias": "Bearish Bias",
+    "signalStrength": "High",
+    "fusionScore": 0.2,
+    "timeframe": "7D",
+    "actualPrice": null,
+    "error": null,
+    "correct": null
+  }
+]

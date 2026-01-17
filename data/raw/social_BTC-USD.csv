@@ -1,0 +1,10 @@
+source,id,created_utc,title,text,score,num_comments,url,subreddit
+reddit,mock1,2025-12-27 16:40:39.590170,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,CryptoCurrency
+reddit,mock2,2025-12-27 16:40:39.590177,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,CryptoCurrency
+reddit,mock3,2025-12-27 16:40:39.590181,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,CryptoCurrency
+reddit,mock1,2025-12-27 16:40:39.591270,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,Bitcoin
+reddit,mock2,2025-12-27 16:40:39.591275,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,Bitcoin
+reddit,mock3,2025-12-27 16:40:39.591279,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,Bitcoin
+reddit,mock1,2025-12-27 16:40:39.592244,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,active_trading_strategies
+reddit,mock2,2025-12-27 16:40:39.592249,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,active_trading_strategies
+reddit,mock3,2025-12-27 16:40:39.592252,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,active_trading_strategies

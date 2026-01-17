@@ -1,0 +1,13 @@
+yfinance
+pandas
+praw
+textblob
+vaderSentiment
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+requests
+scipy
+numpy

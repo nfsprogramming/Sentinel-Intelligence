@@ -1,0 +1,10 @@
+source,id,created_utc,title,text,score,num_comments,url,subreddit,combined_text,sentiment_score
+reddit,mock1,2025-12-27 16:40:39.590170,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,CryptoCurrency,Bitcoin is going to the moon! I think we are seeing a huge bull run incoming.,0.39999999999999997
+reddit,mock2,2025-12-27 16:40:39.590177,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,CryptoCurrency,Market crash imminent? Technical indicators look bearish.,0.0
+reddit,mock3,2025-12-27 16:40:39.590181,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,CryptoCurrency,Just bought more ETH Ethereum upgrade looks promising.,0.35
+reddit,mock1,2025-12-27 16:40:39.591270,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,Bitcoin,Bitcoin is going to the moon! I think we are seeing a huge bull run incoming.,0.39999999999999997
+reddit,mock2,2025-12-27 16:40:39.591275,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,Bitcoin,Market crash imminent? Technical indicators look bearish.,0.0
+reddit,mock3,2025-12-27 16:40:39.591279,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,Bitcoin,Just bought more ETH Ethereum upgrade looks promising.,0.35
+reddit,mock1,2025-12-27 16:40:39.592244,Bitcoin is going to the moon!,I think we are seeing a huge bull run incoming.,105,20,http://mock.url,active_trading_strategies,Bitcoin is going to the moon! I think we are seeing a huge bull run incoming.,0.39999999999999997
+reddit,mock2,2025-12-27 16:40:39.592249,Market crash imminent?,Technical indicators look bearish.,50,15,http://mock.url,active_trading_strategies,Market crash imminent? Technical indicators look bearish.,0.0
+reddit,mock3,2025-12-27 16:40:39.592252,Just bought more ETH,Ethereum upgrade looks promising.,300,50,http://mock.url,active_trading_strategies,Just bought more ETH Ethereum upgrade looks promising.,0.35
