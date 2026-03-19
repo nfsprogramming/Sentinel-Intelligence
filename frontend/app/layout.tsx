@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "SENTINEL | Transcendent Market Intelligence",
   description: "When insight matters.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
